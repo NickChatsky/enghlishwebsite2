@@ -17,7 +17,7 @@ export function TeacherHero() {
             <div className="relative w-40 h-40 mx-auto overflow-hidden rounded-full border-4 border-blue-100 shadow-lg">
               {/* Replace the src attribute with your actual photo URL */}
               <Image
-                src="/your-photo.jpg"
+                src="public/images/your-photo.jpg"
                 width={160}
                 height={160}
                 alt="Teacher's photo"
